@@ -11,3 +11,12 @@ This repository contains weekly challenges solution of Alteryx Designer
 # Solution Challenge Week 30
 
 ![image](https://user-images.githubusercontent.com/16829371/34349352-94b50efa-e9de-11e7-963e-1661f23951f2.png)
+
+# Challenge Week 26
+Use Case:  in order to audit their employee expense reports, a service company would like to calculate how far (in miles) their technician is traveling from their hotels, to the worksite, then to their destination hotel on a daily basis.
+
+The Data:  The source is collected in a way that record 1 contains the spatial object for the beginning hotel for day 1, record 2 is the spatial object for the worksite for day 1, and record 3 is the spatial object for the ending hotel for day 1.  This pattern repeats for three successive days.
+
+Find the distance on a daily basis the technician is either driving or straight line distance if you don’t have the spatial data available.
+
+# Solution Challenge Week 26
